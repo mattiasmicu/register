@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "mattiasmicu",
+    "email": "mattias.micu@icloud.com",
+  },
+  "records": {
+    "CNAME": [68e674cbc3e5b3d9.vercel-dns-017.com.],
+    "TXT": [vc-domain-verify=forkstake.mattias.is-a.dev,c5e45b67655a13b7b28d]
+  }
+}
